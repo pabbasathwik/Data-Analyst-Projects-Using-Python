@@ -81,16 +81,16 @@ The aim of this project is to analyze COVID-19 clinical trials data to:
 
 ## 📁 Files Included
 
-- `COVID clinical trials.csv` – Original dataset  
-- `covid_19_clinical_trails_dashboard.py` – Python script from Google Colab  
-- `COVID-19 Clinical Trials EDA Pandas.pdf` – Project reference guide  
+- [COVID clinical trials.csv](https://drive.google.com/file/d/1WessMr8tdADxk04uVT-AaoP3_CxwJIYR/view) – Original dataset  
+- [covid_19_clinical_trails_dashboard.py]() – Python script from Google Colab  
+- [COVID-19 Clinical Trials EDA.pdf](file:///C:/Users/sathw/AppData/Local/Microsoft/Windows/INetCache/IE/1QH9EGSQ/COVID-19_Clinical_Trials_EDA_Pandas__(__ML___FA___DA_projects_)[1].pdf) – Project reference guide  
 - `README.md` – Project documentation  
 
 ---
 
 ## 🙋‍♂️ About Me
-
-I'm a data analyst with experience in **Pandas**, **Python**, and **data visualization**, passionate about healthcare data projects.  
+88
+I'm a data analyst with experience in **Pandas**, **NumPy**, **Python**, and **data visualization**, **Matplotlib**, **Seaborn**, **PowerBI**, **Tableau**, **SQl**, **MongoDB**, **Excel** passionate about all types of data projects.  
 Check out more on my [GitHub Profile](https://github.com/Sathwik-pabba).
 
 ---
