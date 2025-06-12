@@ -83,8 +83,7 @@ The aim of this project is to analyze COVID-19 clinical trials data to:
 
 - [COVID clinical trials.csv](https://drive.google.com/file/d/1WessMr8tdADxk04uVT-AaoP3_CxwJIYR/view) – Original dataset  
 - [covid_19_clinical_trails_dashboard.py](https://github.com/Sathwik-pabba/Data-Analyst-Projects-Using-Python/blob/main/covid_19_clinical_trails_dashboard.py) – Python script from Google Colab  
-- [COVID-19 Clinical Trials EDA.pdf](file:///C:/Users/sathw/AppData/Local/Microsoft/Windows/INetCache/IE/1QH9EGSQ/COVID-19_Clinical_Trials_EDA_Pandas__(__ML___FA___DA_projects_)[1].pdf) – Project reference guide  
-- `README.md` – Project documentation  
+- [COVID-19 Clinical Trials EDA.pdf](file:///C:/Users/sathw/AppData/Local/Microsoft/Windows/INetCache/IE/1QH9EGSQ/COVID-19_Clinical_Trials_EDA_Pandas__(__ML___FA___DA_projects_)[1].pdf) – Project reference guide 
 
 ---
 
