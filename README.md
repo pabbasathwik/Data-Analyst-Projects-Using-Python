@@ -87,7 +87,7 @@ The aim of this project is to analyze COVID-19 clinical trials data to:
 ---
 
 ## 🙋‍♂️ About Me
-88
+
 I'm a data analyst with experience in **Pandas**, **NumPy**, **Python**, and **data visualization**, **Matplotlib**, **Seaborn**, **PowerBI**, **Tableau**, **SQl**, **MongoDB**, **Excel** passionate about all types of data projects.  
 Check out more on my [GitHub Profile](https://github.com/Sathwik-pabba).
 
