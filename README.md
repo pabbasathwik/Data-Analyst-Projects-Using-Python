@@ -92,3 +92,10 @@ The aim of this project is to analyze COVID-19 clinical trials data to:
 
 I'm a data analyst with experience in **Pandas**, **Python**, and **data visualization**, passionate about healthcare data projects.  
 Check out more on my [GitHub Profile](https://github.com/Sathwik-pabba).
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/sathwikpabba)
+- 📫 Email: sathwik.pabba18@email.com
